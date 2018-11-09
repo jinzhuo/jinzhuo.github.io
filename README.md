@@ -1,4 +1,4 @@
-# Welcome to the lab page of Jinzhuo Liu
+# Welcome to the page of Jinzhuo Liu
 
 ## About
 

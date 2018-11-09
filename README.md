@@ -1,6 +1,6 @@
 # Welcome to the page of Jinzhuo Liu
 
-## About
+## About me
 
 I'm ...
 

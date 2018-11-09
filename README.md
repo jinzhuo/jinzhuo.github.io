@@ -28,7 +28,7 @@ I'm ...
 - Pattern formation and transition
 - Data science
 
-## Photo in Research Group
+## Photos in Research Group
 ![Photo1](http://www.zhen-wang.org/uploads/3/7/5/5/37559281/published/1.jpg?1504365770)
 Discussions
 

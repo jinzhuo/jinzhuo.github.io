@@ -10,7 +10,7 @@ I'm ...
 |2003-2007|BC|Software engineering|Yunnan University
 |2007-2010|BA|System analysis and integration|Yunnan University
 |2010-2013|Ph.D|System analysis and integration|Yunnan University
-|2011-2012|Ph.D(Visiting scholar)|University of British Columbia
+|2011-2012|Ph.D(Visiting scholar)|Computer Science|University of British Columbia
 
 
 ### Research Interest

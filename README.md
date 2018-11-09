@@ -41,7 +41,7 @@ I am a lecturer at School of Software, Yunnan University, China. My research int
 2. **Liu, C.**, Shi, J., Li, T., & Liu, J. (2019). Aspiration driven coevolution resolves social dilemmas in networks. *Applied Mathematics and Computation*, *342*, 247-254.
 3. **Liu, J.**, Meng, H., Wang, W., Li, T., & Yu, Y. (2018). Synergy punishment promotes cooperation in spatial public good game. *Chaos, Solitons & Fractals*, *109*, 214-218.
 4. **Liu, J.**, Li, T., Wang, W., Zhao, N., & Hang, F. (2018). Impact of strategy-neutral rewarding on the evolution of cooperative behavior. *Chaos, Solitons & Fractals*, *106*, 76-79.
-5. Wei Wang, Yun He, Tong Li, Jiajun Zhu, and **Jinzhuo Liu**, “An Integrated Model for Information Retrieval Based Change Impact Analysis,” Scientific Programming, vol. 2018, Article ID 5913634, 13 pages, 2018.
+5. Wang, W., He, Y., Li, T., Zhu, J. and **Liu, J.**, "An Integrated Model for Information Retrieval Based Change Impact Analysis", Scientific Programming, vol. 2018, Article ID 5913634, 13 pages, 2018.
 
 ## Contact
 Email: <a href="mailto:jinzhuo.liu@hotmail.com">jinzhuo.liu@hotmail.com</a> or

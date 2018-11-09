@@ -1,3 +1,5 @@
-# Welcome to the page of NetSci-DataSci Lab at YNU
-Jinzhuo Liu
+# Welcome to the lab page of Jinzhuo Liu
 
+## About
+
+I'm 

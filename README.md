@@ -34,9 +34,16 @@ I'm ...
 3. Liu, J., Meng, H., Wang, W., Li, T., & Yu, Y. (2018). Synergy punishment promotes cooperation in spatial public good game. *Chaos, Solitons & Fractals*, *109*, 214-218.
 4. Liu, J., Li, T., Wang, W., Zhao, N., & Hang, F. (2018). Impact of strategy-neutral rewarding on the evolution of cooperative behavior. *Chaos, Solitons & Fractals*, *106*, 76-79.
 
-
 ## Photo in Research Group
-![Photo](http://www.zhen-wang.org/uploads/3/7/5/5/37559281/published/1.jpg?1504365770)
+![Photo1](http://www.zhen-wang.org/uploads/3/7/5/5/37559281/published/1.jpg?1504365770)
+Discussions
+
+![Photo2](http://www.zhen-wang.org/uploads/3/7/5/5/37559281/published/1.png?1504367237)
+Group meetings
+
+![Photo3](http://www.zhen-wang.org/uploads/3/7/5/5/37559281/published/1.png?1504367237)
+Group meetings
+
 
 ## Contact
 Email: <a href="mailto:jinzhuo.liu@hotmail.com">jinzhuo.liu@hotmail.com</a> or

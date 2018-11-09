@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm ...
+I am a lecturer at School of Software, Yunnan University, China. My research interests contains complex networks, evolutionary game dynamics, social science and aritificial intelligence, behavioral vaccination. On this page, you will find more information about my research.
 
 ### Working Experience
 

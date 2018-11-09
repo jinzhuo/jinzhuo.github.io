@@ -30,13 +30,10 @@ I'm ...
 
 ## Photos in Research Group
 ![Photo1](http://www.zhen-wang.org/uploads/3/7/5/5/37559281/published/1.jpg?1504365770)
-Discussions
+<p style="text-align: center">Discussions</p>
 
 ![Photo2](http://www.zhen-wang.org/uploads/3/7/5/5/37559281/published/1.png?1504367237)
-Group meetings
-
-![Photo3](http://www.zhen-wang.org/uploads/3/7/5/5/37559281/published/1.png?1504367237)
-Group meetings
+<p style="text-align: center">Group meetings</p>
 
 
 ## Publications

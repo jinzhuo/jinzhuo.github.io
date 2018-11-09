@@ -29,6 +29,10 @@ I'm ...
 - Data science
 
 ## Publications
+1. Liu, J., Meng, H., Wang, W., Xie, Z., & Yu, Q. (2019). Evolution of cooperation on independent networks: The influence of asymmetric information sharing updating mechanism. *Applied Mathematics and Computation*, *340*, 234-241.
+2. Liu, C., Shi, J., Li, T., & Liu, J. (2019). Aspiration driven coevolution resolves social dilemmas in networks. *Applied Mathematics and Computation*, *342*, 247-254.
+3. Liu, J., Meng, H., Wang, W., Li, T., & Yu, Y. (2018). Synergy punishment promotes cooperation in spatial public good game. *Chaos, Solitons & Fractals*, *109*, 214-218.
+4. Liu, J., Li, T., Wang, W., Zhao, N., & Hang, F. (2018). Impact of strategy-neutral rewarding on the evolution of cooperative behavior. *Chaos, Solitons & Fractals*, *106*, 76-79.
 
 
 ## Photo in Research Group

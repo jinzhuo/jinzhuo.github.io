@@ -44,4 +44,4 @@ I am a lecturer at School of Software, Yunnan University, China. My research int
 
 ## Contact
 Email: <a href="mailto:jinzhuo.liu@hotmail.com">jinzhuo.liu@hotmail.com</a> or
-<a href="mailto:liujinzhuo@mail.ynu.cn">liujinzhuo@mail.ynu.cn</a>
+<a href="mailto:liujinzhuo@ynu.edu.cn">liujinzhuo@ynu.edu.cn</a>

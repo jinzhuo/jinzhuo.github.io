@@ -13,7 +13,7 @@ I'm ...
 
 
 ## Photo in Research Group
-[!Photo](http://www.zhen-wang.org/uploads/3/7/5/5/37559281/published/1.jpg?1504365770)
+![Photo](http://www.zhen-wang.org/uploads/3/7/5/5/37559281/published/1.jpg?1504365770)
 
 ## Contact
 Email: <a href="mailto:jinzhuo.liu@hotmail.com">jinzhuo.liu@hotmail.com</a> or
